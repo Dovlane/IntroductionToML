@@ -1,2 +1,2 @@
-# UvodUMasinskoUcenje
-Model višestruke linearne regresije za predavanje na studentskom seminaru.
+# Introduction to ML
+Model of multilinear regression represented on Mathemathical Institute.
