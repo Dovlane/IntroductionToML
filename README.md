@@ -5,11 +5,14 @@ I programmed in Python using the Jupyter platform, applying libraries such as Nu
 Link to problem:
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
+# Intro to problem
+
+Main goal is to based on this data to predict house prices.
+
 Dataset has 79 descriptive columns:
 1. 57 categorical
 2. 20 quantitative
 3. 4 temporal
-
 
 Examples of categorical columns:
 1. OverallQual: Rates the overall material and finish of the house
@@ -29,10 +32,15 @@ Examples of temporal columns:
 3. GarageYrBlt: Year garage was built
 4. YrSold: Year Sold
 
-
-The most vital data is expected to be:
+# Conclusion
+After reprocessing this data some of columns were dropped, and categorical columns are one-hot encoded. After applying multilinear regression, vital columns has excpected to be:
   1. GrLivArea
   2. Condition 1
   3. BldgType
   4. YearBuilt
   5. Fireplaces
+
+# Results:
+Score on Kaggle: 0.16938
+MAE = 18798.120 (Mean absolute error)
+mape = 0.10874900729951524 (Mean absolute percentage error)
