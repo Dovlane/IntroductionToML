@@ -4,3 +4,10 @@ I programmed in Python using the Jupyter platform, applying libraries such as Nu
 
 Link to problem:
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+
+The most vital data is expected to be:
+  1. GrLivArea
+  2. Condition 1
+  3. BldgType
+  4. YearBuilt
+  5. Fireplaces
