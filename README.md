@@ -5,6 +5,27 @@ I programmed in Python using the Jupyter platform, applying libraries such as Nu
 Link to problem:
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
+Dataset has 79 descriptive columns:
+1. 57 categorical
+2. 20 quantitative
+3. 4 temporal
+
+Examples of categorical columns:
+1. OverallQual: Rates the overall material and finish of the house
+2. LotShape: General shape of property
+3. HeatingQC: Heating quality and condition
+
+Examples of quantitative columns:
+1. LotArea: Lot size in square feet
+2. GrLivArea: Above grade (ground) living area square feet
+3. FullBath: Full bathrooms above grade
+
+Examples of temporal columns:
+1. YearBuilt: Original construction date
+2. YearRemodAdd: Remodel date (same as construction date if no remodeling or additions)
+3. GarageYrBlt: Year garage was built
+4. YrSold: Year Sold
+
 The most vital data is expected to be:
   1. GrLivArea
   2. Condition 1
