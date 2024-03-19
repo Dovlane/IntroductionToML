@@ -41,6 +41,6 @@ After reprocessing this data some of columns were dropped, and categorical colum
   5. Fireplaces
 
 # Results:
-Score on Kaggle: 0.16938
-MAE = 18798.120 (Mean absolute error)
-mape = 0.10874900729951524 (Mean absolute percentage error)
+- Score on Kaggle: 0.16938
+- MAE = 18798.120 (Mean absolute error)
+- MAPE = 0.10874900729951524 (Mean absolute percentage error)
